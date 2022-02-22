@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The epistle to the monthly and quarterly meetings of Friends in England, Wales, and elsewhere from our yearly meeting, held in London the fifth, sixth, seventh, and eighth days of the fourth month, 1693.</title>
+            <author>Society of Friends.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27159</idno>
+            <idno type="STC">Wing B1560A</idno>
+            <idno type="STC">ESTC R28888</idno>
+            <idno type="EEBO-CITATION">10775800</idno>
+            <idno type="OCLC">ocm 10775800</idno>
+            <idno type="VID">45801</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45801)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1396:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The epistle to the monthly and quarterly meetings of Friends in England, Wales, and elsewhere from our yearly meeting, held in London the fifth, sixth, seventh, and eighth days of the fourth month, 1693.</title>
+                  <author>Society of Friends.</author>
+                  <author>Bealing, Benjamin, d. 1739.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Signed in behalf of our said meeting by Benjamin Bealing."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45801:1"/>
+            <pb facs="tcp:45801:1" rendition="simple:additions"/>
+            <head>The Epiſtle to the Monthly and Quarterly Meetings of Friends in <hi>England, Wales,</hi> and Elſewhere.</head>
+            <opener>
+               <dateline>From Our <hi>Yearly Meeting,</hi> held in <hi>London,</hi> 
+                  <date>the Fifth, Sixth, Seventh, and Eighth Days of the Fourth Month, <hi>1693.</hi>
+                  </date>
+               </dateline>
+               <salute>Dear and truly beloved Friends and Brethren,</salute>
+            </opener>
+            <p>WE tenderly ſalute you in the Lord with Love unfeigned, heartily deſiring <hi>Sion</hi>'s Proſperity, and earneſtly praying for the Peace of <hi>Jeruſalem</hi> and of the whole <hi>Iſrael</hi> of God and Church of Chriſt, That all the Aſſemblies of Friends may be truly comforted, and abundantly refreſhed in the living ſence of his Pre<g ref="char:EOLhyphen"/>ſence and unſpeakable Goodneſs of our God, as we have been beyond Expreſſion in this our ſolemn and ſeaſonable Aſſembly at this time, for which we are greatly obliged to bleſs and praiſe the God and Fountain of all our Mercies, and always to continue humbly thankful to him for the ſame.</p>
+            <p>The Principal Matters of moſt General concern agreed upon by this Meeting to be communicated, we do faithfully recommend to your Chriſtian Care and Notice as here<g ref="char:EOLhyphen"/>tofore.</p>
+            <p>Our laſt Yearly Epiſtle being very comprehenſive and weighty,<note place="margin">Reference to our laſt Year<g ref="char:EOLhyphen"/>ly Meeting Epiſtle.</note> and more large than uſual, It is earneſtly deſired, that the Contents thereof be ſeriouſly Reminded in all your Monthly and Quarterly Meetings in order to the faithful performance, according to our Chriſtian Religion and Profeſſion in the purity thereof, and as God's faithful Witneſs in all Hearts doth enjoyn, and is ready to aſſiſt all the Faithful and diligent in the Conduct of their Converſations.</p>
+            <p>And therefore that all due and Godly care be taken and exerciſed among all Friends in the Chriſtian and ſober Education of their Children and Youth,<note place="margin">A ſummary of the former Years Epiſtle to be taken notice of by Friends.</note> which are under their Care and Truſt, that they be good Examples and Patterns both in Converſation, Words, and Habits, becoming our holy Profeſſion and humble Religion of our bleſſed Lord and Saviour Jeſus Chriſt, againſt the Pride of Life, againſt the Breach of Promiſe, Injuring and de<g ref="char:EOLhyphen"/>frauding others in their Properties, Trade and Commerce, <hi>&amp;c.</hi> againſt the grand Op<g ref="char:EOLhyphen"/>preſſion and Antichriſtian yoke of <hi>Tythes,</hi> that our Chriſtian Teſtimony born and greatly ſuffered for, be faithfully maintained againſt them in all reſpects; and againſt Steeple-houſe Rates or Lays; as alſo againſt the Burden and Impoſition of <hi>Oathes;</hi> and againſt all Whiſ<g ref="char:EOLhyphen"/>perings and Backbitings which tend to Strife and Diviſion, and making Parties; and all diſorderly and undue proceedings in Marriages, That Truth's Order, Method and Teſti<g ref="char:EOLhyphen"/>mony be faithfully kept unto concerning all theſe matters, and the judgment thereof in God's Wiſdom, ſet over all perverſeneſs, unfaithfulneſs, and diſorderly walking, tending to the diſhonour of God, reproach and ſcandal of our holy Profeſſion, and of us his People.</p>
+            <p>It is deſired, that <hi>Friends</hi> at all their Monthly and Quarterly Meetings be reminded to call for the Records of the Sufferings of Friends, to ſee that they be duly gathered,<note place="margin">The Records of Sufferings to be more carefully lookt after.</note> truly entred and kept, and accordingly ſent up, as hath been often adviſed, both of what Tythes, <hi>&amp;c.</hi> are pretended to be due, and for how long a time, and the time when taken, and by, and for whom; and what Goods are taken, and the value thereof, as well of thoſe not ex<g ref="char:EOLhyphen"/>ceeding, as thoſe exceeding the ſums or quantities demanded (it being a ſuffering in both for Truths ſake) they being in theſe particulars found defective and imperfect in divers Counties, which is <hi>an Obſtruction</hi> to the General Record of Friends Sufferings. And there<g ref="char:EOLhyphen"/>fore the Monthly and Quarterly Meetings are adviſed to take more care for the future, that all Friends Sufferings for Truth's ſake may be brought up as full and compleat in all re<g ref="char:EOLhyphen"/>ſpects as poſſibly may be.</p>
+            <p>A complaint being made about ſome Ship-Maſters, who profeſs the Truth, and are eſteemed <hi>Quakers,</hi> their carrying Guns in their Ships, ſuppoſing thereby to defend and ſecure themſelves and their Ships, contrary to their former Principle and Practice, and to the endangering their own and others Lives thereby; alſo giving occaſion of more ſevere hardſhips and ſufferings to be inflicted on ſuch Friends as are preſt into Ships of War, who for Conſcience ſake cannot fight nor deſtroy mens Lives,<note place="margin">Of Ship-Ma<g ref="char:EOLhyphen"/>ſters reputed <hi>Quakers</hi> carry<g ref="char:EOLhyphen"/>ing Guns in their Ships, the dangerous Conſequences thereof.</note> 'tis therefore recommended to the Monthly and Quarterly Meetings whereunto ſuch Ship-Maſters belong, to deal with them in God's Wiſdom, and tender Love, to ſtir them up, <hi>and awaken their Conſciences,</hi> that they may ſeriouſly conſider how they injure their own Souls in ſo doing, and what occaſion they give to make the Truth and Friends to ſuffer by their declention, and acting contrary thereunto through Diſobedience and Unbelief, placeing their ſecurity in that which is
+<pb n="2" facs="tcp:45801:2"/>altogether Inſecure and Dangerous, which we are really ſorry for, and ſincerely de<g ref="char:EOLhyphen"/>ſire their Recovery and ſafety, from Deſtruction, that their Faith and Confidence may be in the Arm and power of God.</p>
+            <p>Dear Friends, you very well know our Chriſtian Principle and Profeſſion in this matter, both with reſpect to God and Caeſar, That becauſe we are Subjects of Chriſt's Kingdom,<note place="margin">Our Reſpect to Chriſt and to Caeſar.</note> which is not of this World, we cannot Fight, <hi>Jo.</hi> 18.36. Yet, being Subjects of Caeſar's Kingdom, we pay our Taxes, Tribute, <hi>&amp;c.</hi> according to the Example of Chriſt and his holy Apoſtles relating to Chriſt's Kingdom and <hi>Caeſar</hi>'s, wherein we are careful not to Offend, <hi>Matt.</hi> 17.27. and 22, 20. <hi>Rom.</hi> 13.6, 7. Being alſo very glad, and much ſatisfied in the many Teſtimonies given at this Meeting, of our Friends Inno<g ref="char:EOLhyphen"/>cency, quiet and peaceable Behaviour, under the outward Government, as becomes our Chriſtian Principle and Profeſſion.</p>
+            <p>
+               <note place="margin">Of <hi>Tho. Wil<g ref="char:EOLhyphen"/>ſon</hi>'s and <hi>James Dickinſon's</hi> Travels.</note>Our dear Friends and Brethren, <hi>Thomas Wilſon</hi> and <hi>James Dickinſon,</hi> being by the good providence of God, preſerved in their Travels, and ſafely returned, and preſent at this Meeting, gave account of their eminent Preſervation and Deliverance both by Sea and Land, and of their Travils and Service in <hi>Barbadoes,</hi> Eaſt and Weſt <hi>Jarſey, Penſilvania, Maryland, Virginia, New-England, North-Carolina, Rhoad-Iſland, Long-Iſland, Antego, Mevis;</hi> and that they found Friends in good Unity in moſt Parts, and great openneſs to Truth, and that in many parts, their great need of being Viſited, and Friends there much de<g ref="char:EOLhyphen"/>ſire it. And that in <hi>New England</hi> the cry of the Blood of Friends formerly put to Death there, is much revived, by the late Judgment and Confuſion fallen upon the Profeſſors there, about Witch-craft, ſeveral being there put to Death, under pretence of being Witches, which they wickedly accuſed Friends formerly with; inſomuch, that ſome of the more Moderate People among them declared, that they believed, that the Hand of the Lord would not be taken from off that Place, until a day of Humiliation be ap<g ref="char:EOLhyphen"/>pointed, to acknowledge and condemn that action, in putting the Quakers to Death. Which we pray God give them Repentance for.</p>
+            <p>
+               <note place="margin">Of four Epi<g ref="char:EOLhyphen"/>ſtles from <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+               </note>Four Epiſtles from <hi>Ireland,</hi> one from the half Years Meeting in <hi>Dublin,</hi> another from <hi>
+                  <g ref="char:V">Ʋ</g>lster</hi> Province, another from <hi>Munster</hi> Province; the fourth, from the Province-Meet<g ref="char:EOLhyphen"/>ing at <hi>Lemster;</hi> intimating the goodneſs of God in their Preſervation and his Preſence amongſt them, and how well things are with reſpect to Unity, Peace and Concord among themſelves; and withal, return their grateful acknowledgments of Friends dear Love; great Affection and Charity here towards them, for the Relief of poor Friends that greatly ſuffered by the late Calamities, which hath been to the great refreſhment of the Bowels of many.</p>
+            <p>
+               <note place="margin">Of ſeveral Epiſtles from Foreign Parts.</note>Several other Epiſtles from Foreign Parts, as <hi>Barbadoes, Maryland, Penſilvania, Virgi<g ref="char:EOLhyphen"/>nia, Scotland, Holland,</hi> were Read, ſignifying for the moſt part, the Love and Unity amongſt Friends, and great Openneſs in divers parts, with deſires of Friends Prayers for them, particularly in <hi>Penſilvania.</hi> And that in <hi>Barbadoes</hi> there hath been a very violent Diſtemper, which has cauſed a great Mortality.</p>
+            <p>
+               <note place="margin">Of the Earth<g ref="char:EOLhyphen"/>quake in <hi>Ja<g ref="char:EOLhyphen"/>maica.</hi>
+               </note>A Letter alſo from <hi>Jamaica,</hi> ſignifying the ſad effects of the late terrible Earthquake there, by the deſtruction of many with their Subſtance; two Thirds of the People (as is ſuppoſed) at <hi>Port-Royal,</hi> and the moſt of Friends then there loſt, except thoſe that were at a Monthly Meeting, twelve Miles diſtant from <hi>Port-Royal,</hi> who were by that means Preſerved.</p>
+            <p>An Epiſtle from <hi>Amſterdam</hi> in <hi>Holland,</hi> ſignifying their Meetings are quiet, and that they are thankful to God for it,<note place="margin">John Furley's <hi>late Travels in</hi> Holland, <hi>&amp;c.</hi>
+               </note> and deſires to be Viſited.</p>
+            <p>And our dear Friend, <hi>John Furley,</hi> of <hi>Colcheſter,</hi> being newly returned out of <hi>Holland,</hi> and preſent at this Meeting, gave a full account, that he hath lately viſited all the Meet<g ref="char:EOLhyphen"/>ings in <hi>Holland</hi> and Low-countrys in thoſe Parts, except one little Meeting, which he could not get to, the place being much covered with Water. And that there is ſome Openneſs in ſome places, and great flocking of Strangers to the Meeting at <hi>Amſterdam.</hi>
+            </p>
+            <p>
+               <note place="margin">Of <hi>Dantzick</hi> Friends.</note>An account was given of <hi>Dantzick</hi> Friends, that they have been quiet one Year and half, and ſo continue, tho but few left; ſome having died under Perſecution—The Magiſtrates there now pretty kind—And that there are a People raiſed up and en<g ref="char:EOLhyphen"/>creaſed in <hi>Germany,</hi>
+               <note place="margin">Of a People called <hi>Pietes.</hi>
+               </note> from among the <hi>Lutherans</hi> called <hi>Pietes,</hi> and by ſome called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> many whereof Perſons of Learning and of the Gentry; That they are a People of ſober Converſations; Perſecuted by the Duke of <hi>Saxony</hi> and the Prieſts, but favoured and Tolerated by the Duke of <hi>Brandenburgh;</hi> ſeveral Friends Books at their requeſt, have been ſpread among them: The Prieſts at <hi>Hamburgh</hi> much diſturbed and inraged againſt our Friends and them, do rail and abuſe them in Print, endeavouring to inſenſe the Magiſtrates there by their Lyes and Calumnies, but the Magiſtrates do not gratifie them, but rather diſcountenance them; Bleſſed be the Lord, whoſe power is at work in the Hearts of many People.</p>
+            <pb n="3" facs="tcp:45801:2"/>
+            <p>
+               <note place="margin">Of the Cap<g ref="char:EOLhyphen"/>tives in <hi>Mac<g ref="char:EOLhyphen"/>queneſs.</hi>
+               </note>The Friends yet remaining Captives in <hi>Maqueneſs,</hi> are ſtill held under great Severi<g ref="char:EOLhyphen"/>ties and Hardſhips, by that cruel tyranical Task-maſter, who is yet ſuffered cruelly to puniſh, wound and kill poor Captives at his pleaſure; and all poſſible care of their Redemption and Relief, is by this Meeting ſtill recommended to the Meeting for Suffer<g ref="char:EOLhyphen"/>ings, to continue their endeavours for the effecting thereof.</p>
+            <p>This Meeting being acquainted that endeavours have been uſed for the relief of Friends in relation to Oaths, purſuant to the laſt Yearly Meetings Advice in that caſe,<note place="margin">Of Friends endeavours for Relief from Oaths.</note> and what progreſs was made in the Houſe of Commons in order thereto, and before the Committee of <hi>Parliament,</hi> who after a due hearing of Friends, drew up a fair Report, and gave their opinion for our Relief, which nevertheleſs was loſt by Vote in the Houſe.</p>
+            <p>This Meeting being ſenſible of the great care of the Meeeting for Sufferings here in that caſe, many tenderly acknowledged Friends labours and endeavours therein.</p>
+            <p>And the Meeting ſtill leaves it to the ſaid Meeting for Sufferings, to continue their care and endeavours in that caſe as the Lord ſhall pleaſe to make way for the general Eaſe of Friends.</p>
+            <p>
+               <note place="margin">About poor Friends Re<g ref="char:EOLhyphen"/>moval, <hi>&amp;c.</hi>
+               </note>An account being given to this Meeting, that ſeveral poor Friends have removed them<g ref="char:EOLhyphen"/>ſelves and their Families from divers parts of the Nation, to the City of <hi>London,</hi> who ſoon after their coming, being not capable to ſubſiſt, have applied themſelves to Friends there for Relief, and have been very chargable.</p>
+            <p>It's adviſed, that if any poor Friends for the time to come ſhould incline to remove themſelves and Families to this City, that before they unſettle themſelves, they apply themſelves to the Monthly or Quarterly Meetings to which they belong, for Advice and Counſel; and that ſuch Meeting do rather advertiſe them to be contented in their Station, and places, where Proviſions, and Accomodations may be eaſier and much cheaper obtained then at <hi>London.</hi> Or if permitted by Certificate from the Counties to Remove, that then the monthly and quarterly Meetings from whence they come, do take care to ſupply their Neceſſities, that the Friends of <hi>London</hi> be not overcharged for the future.</p>
+            <p>Its deſired that the Monthly and Quarterly Meetings reſpectively take notice of all Friends Books, that are or may be ſent to them, according to former agreement,<note place="margin">Of Friends Books.</note> and take care for the diſperſing the ſame for the Service of Truth.</p>
+            <p>
+               <note place="margin">Correſpon<g ref="char:EOLhyphen"/>dants only to be written to about Suffer<g ref="char:EOLhyphen"/>ings.</note>And alſo it is agreed that each Quarterly Meeting take care to adviſe the Correſpon<g ref="char:EOLhyphen"/>dants for the Counties, and any others concerned to Write Only to your Correſpon<g ref="char:EOLhyphen"/>dants in <hi>London</hi> about their Sufferings, and not to other perſons, leſt their ſuffering Caſe be delayed.</p>
+            <p>Friends appointed to view the Accounts Report, that they find they are truly ſtated and rightly kept.<note place="margin">Accounts.</note> And Friends are again adviſed to bring up with them the total Sum of each Counties Collection for the Relief of Friends that ſuffered by the late Calamities in <hi>Ireland.</hi>
+            </p>
+            <p>We are truly comforted and greatly refreſhed in the Lord by the weighty Accounts given at this our ſolemn Aſſembly from the reſpective Counties in <hi>England</hi> and <hi>Wales,</hi> by the Friends ſent up, as alſo by ſome Epiſtles from ſeveral Counties, importing the Unity,<note place="margin">Accounts of Truth's Proſ<g ref="char:EOLhyphen"/>perity, <hi>&amp;c.</hi>
+               </note> Love, Peace and Concord among Friends, and Proſperity of the bleſſed Truth and in<g ref="char:EOLhyphen"/>creaſe of the Government of Chriſt, and his Peace in the Church, in which we pray God to keep his People to the end.</p>
+            <p>To avoid Contention and Strife in all Meetings, It is the Advice and Sence of this Meeting,</p>
+            <list>
+               <item>1. That all Friends have a care of God's Glory, be tender thereof, as hath been often adviſed.<note place="margin">Seaſonable Advice for Peace &amp; good Order in ſeve<g ref="char:EOLhyphen"/>ral particulars</note>
+               </item>
+               <item>2. And to keep the Authority of your Meetings in the Power of God, and Unity of his bleſſed Spirit, whereby they were errected, and ſettled, and continue your Godly care and ſervices therein for theſe good ends for which they were firſt inſtituted.</item>
+               <item>3. And to keep out all Contention, perſonal Reflections and Smitings out of your Meet<g ref="char:EOLhyphen"/>ings; and keep down and out of all Heats, and Paſſions, and doubtful Diſputations.</item>
+               <item>4. Suffer no turbulent contentious quarrelſom Spirit or Perſon to be concerned among you, in ordering your affairs, that they may be all managed in the peaceable tender Spirit and Wiſdom of Chriſt Jeſus.</item>
+               <item>5. Suffer no Diviſions, or Schiſms, or making parties among your ſelves one againſt another, for that will greatly tend to weaken your Meetings, and loſe their power, and to cauſe them and you to be ſlighted.</item>
+               <item>6. Both our Mens and Womens Meetings, and our Monthly and Quarterly Meetings, and Yearly Meetings, and Meetings for Sufferings were ſet up in the Wiſdom, Counſel, and tender Love of God, and in the ſame peaceable Wiſdom to be kept and incouraged for all thoſe good ends for which they were intended and appointed.</item>
+               <pb n="4" facs="tcp:45801:3" rendition="simple:additions"/>
+               <item>7. All Differences happening in Perſonal or Temporal occaſions to be ſpeedily ended (according to the Advice given in our laſt Yearly Epiſtle) and if any doubtful point in Law be in the caſe, then both parties may adviſe with ſome well knowing in the Law; For if any luſt to be con<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> we have no ſuch Cuſtom in the Churches of Chriſt.</item>
+               <item>8. The Meeting for S<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gs is intruſted to take care of all Sufferings of Friends for Truth and Conſcience ſake, as at firſt intended.</item>
+            </list>
+            <p>The ſix Friends of the City appointed and intruſted this Year with the Accounts, are <hi>William Crouch, John Staploe, William Macket, William Chandler, William Beech,</hi> and <hi>Na<g ref="char:EOLhyphen"/>thaniel Marks.</hi>
+            </p>
+            <p>
+               <note place="margin">The bleſſed Progreſs and Concluſion of the Meeting.</note>Our Souls alſo were very deeply affected with the refreſhing Preſence and Counſel of the Lord our God attending this our Yearly Meeting, and the Amicable and Peaceable Ma<g ref="char:EOLhyphen"/>nagement of the Affairs, and the Bleſſed End and Cloſure thereof, to the great Conſolation and Satisfaction of Friends, and honour of his Bleſſed Truth, in which our Unity ſtands: bleſſed be the God of all our Mercies forever.</p>
+            <p>
+               <hi>It's agreed that our Yearly Meeting be continued as hitherto, if the Lord will, being Adjourned till the next Year. And that Friends of each County ſend two Faithful Friends to attend the Service thereof as formerly directed.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Signed in behalf of our ſaid Meeting, by <hi>Benjamin Bealing.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:45801:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
